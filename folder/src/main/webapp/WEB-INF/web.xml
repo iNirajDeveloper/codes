@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>demo1</servlet-name>
+<servlet-class>com.tssm.bscoer.demo1</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ExampleServerToClinet</servlet-name>
+<url-pattern>/welcome</url-pattern>
+</servlet-mapping>
+</web-app>
